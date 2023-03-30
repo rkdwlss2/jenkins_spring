@@ -26,4 +26,9 @@ public class testController {
         return "test4";
     }
 
+    @GetMapping("/test5")
+    private String test5(){
+        return "test5";
+    }
+
 }

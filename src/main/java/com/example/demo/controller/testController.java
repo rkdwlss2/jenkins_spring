@@ -55,7 +55,4 @@ public class testController {
     private String test10(){
         return "test10";
     }
-
-
 }
-
